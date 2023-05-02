@@ -24,12 +24,14 @@ Live Life To __THE FULLEST__!
 
 ## My Favorite Websites
 
-[Youtube](https://youtube.com)
-[I'm being tagged][I have a NEW HOME]
+[Youtube](https://youtube.com)<br>
+[Cubs][I have a NEW HOME]
 
 ## Persons of Interest
 
 [Benjamin Franklin][1]<br>
+<kbd>
+ <img src="https://github.com/owencape/aboutMe/blob/main/img/ben.jpg" height="150px" width="100px"></kbd>
 [Mike Trout][2]
 <kbd>
 <img src="https://github.com/owencape/aboutMe/blob/main/img/mike.jpg" height="150px" width="100px"></kbd>
