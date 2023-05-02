@@ -29,9 +29,9 @@ Live Life To __THE FULLEST__!
 
 ## Persons of Interest
 
-[Benjamin Franklin][1]<br>
+[Benjamin Franklin][1]
 <kbd>
- <img src="https://github.com/owencape/aboutMe/blob/main/img/ben.jpg" height="150px" width="100px"></kbd>
+ <img src="https://github.com/owencape/aboutMe/blob/main/img/ben.jpg" height="150px" width="100px"></kbd><br>
 [Mike Trout][2]
 <kbd>
 <img src="https://github.com/owencape/aboutMe/blob/main/img/mike.jpg" height="150px" width="100px"></kbd>
