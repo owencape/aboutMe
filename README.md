@@ -31,7 +31,16 @@ Live Life To __THE FULLEST__!
 
 [Benjamin Franklin][1]<br>
 [Mike Trout][2]
+<kbd>
+<img src="https://github.com/owencape/aboutMe/blob/main/img/mike.jpg" height="150px" width="100px"></kbd>
 
+## Favorite Terms
+
+| Players | Stats | Ranking
+|:-|:----:|---:
+|Mike Trout| .367 | 1
+|Shohei Ohtani| .344 | 2
+|Nelson Cruz| .356 | 3
 
 
 Markdown Tutorial
