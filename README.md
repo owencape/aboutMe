@@ -30,11 +30,9 @@ Live Life To __THE FULLEST__!
 ## Persons of Interest
 
 
-<kbd>
- <img src="https://github.com/owencape/aboutMe/blob/main/img/ben.jpg" height="150px" width="100px"></kbd>
+<kbd><img src="https://github.com/owencape/aboutMe/blob/main/img/ben.jpg" height="150px" width="100px"></kbd>
 [Benjamin Franklin][1]<br>
-<kbd>
-<img src="https://github.com/owencape/aboutMe/blob/main/img/mike.jpg" height="150px" width="100px"></kbd>
+<kbd><img src="https://github.com/owencape/aboutMe/blob/main/img/mike.jpg" height="150px" width="100px"></kbd>
 [Mike Trout][2]
 
 ## Favorite Terms
